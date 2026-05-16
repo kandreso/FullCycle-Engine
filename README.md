@@ -1,19 +1,13 @@
 # ⚙️ My espacio
 
-<img width="2600" height="2000" alt="7081473" src="https://github.com/user-attachments/assets/d47d55e1-ed2c-4fec-a011-00831322bb7b" />
-
 ## 📝 Descripción
-
-*Motor de Ciclo Completo* es una solución diseñada para [Escribe aquí brevemente qué hace el motor, por ejemplo: gestionar procesos de inicio a fin / renderizar gráficos / simular ciclos físicos]. El objetivo principal de este proyecto es ofrecer un rendimiento óptimo y un flujo de trabajo automatizado.
-
 ---
 
 ## ✨ Características Principales
-<img width="2600" height="2000" alt="7081473" src="https://github.com/user-attachments/assets/bf01745f-2d61-48b0-b182-ac77593fa3a9" />
 
-* 🔄 *Gestión de Ciclo:* Automatización eficiente de todas las etapas del proceso.
-* 🚀 *Alto Rendimiento:* Optimizado para arquitecturas modernas y bajo consumo de recursos.
-* 🛠️ *Modularidad:* Estructura limpia que permite añadir extensiones fácilmente.
+* 🔄 *
+* 🚀 *
+* 🛠️ *
 
 ---
 
