@@ -1,10 +1,6 @@
 # ⚙️ My espacio
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/kandreso/Motor-de-ciclo-completo?style=for-the-badge&color=2cc787" alt="Stars">
-  <img src="https://img.shields.io/github/forks/kandreso/Motor-de-ciclo-completo?style=for-the-badge&color=007acc" alt="Forks">
-  <img src="https://img.shields.io/github/issues/kandreso/Motor-de-ciclo-completo?style=for-the-badge&color=ff4655" alt="Issues">
-</p>
+<img width="2600" height="2000" alt="7081473" src="https://github.com/user-attachments/assets/d47d55e1-ed2c-4fec-a011-00831322bb7b" />
 
 ## 📝 Descripción
 
