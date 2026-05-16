@@ -1,4 +1,4 @@
-# ⚙️ Motor de Ciclo Completo
+# ⚙️ My espacio
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/kandreso/Motor-de-ciclo-completo?style=for-the-badge&color=2cc787" alt="Stars">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ herramientas :
 
 Aquí puedes usar insignias (badges) de las tecnologías reales que usaste. Por ejemplo:
 
@@ -28,20 +28,3 @@ Aquí puedes usar insignias (badges) de las tecnologías reales que usaste. Por 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-(Borra los que no uses o añade los tuyos)
-
----
-
-## 📦 Instalación y Uso rápido
-
-Para clonar y probar este motor de forma local, ejecuta en tu terminal:
-
-```bash
-# 1. Clonar el repositorio
-git clone [https://github.com/kandreso/Motor-de-ciclo-completo.git](https://github.com/kandreso/Motor-de-ciclo-completo.git)
-
-# 2. Entrar a la carpeta
-cd Motor-de-ciclo-completo
-
-# 3. Ejecutar el proyecto (Cambia esto por tu comando real, ej: python main.py o npm start)
-[Tu comando de arranque aquí]
